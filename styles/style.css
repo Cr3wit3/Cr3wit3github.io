@@ -1,0 +1,68 @@
+html {
+  font-size: 10px; /* Эдгар гений-_- px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family:  'Poller One', cursive;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+h3 {
+  font-size: 30px;
+  text-align: center;
+}
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+a {
+  font-size: 40px;
+  text-align: center;
+}
+a {
+	color: blue;
+}
+html {
+  background-color: #5292F8;
+}
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #AB3073;
+  padding: 0 20px 60px 100px;
+  border: 10px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 30px 0;
+  color: #00539f;
+  text-shadow: 10px 1px 10px turquoise;
+}
+h2 {
+  margin: 0;
+  padding: 30px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 3px turquoise;
+}
+h3 {
+  margin: 0;
+  padding: 30px 0;
+  color: #00539f;
+  text-shadow: px px px turquoise;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+img {
+  max-width: 600px;
+  height: auto;
+}
+
+
